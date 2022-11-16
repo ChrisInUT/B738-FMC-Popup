@@ -18,7 +18,7 @@ if PLANE_ICAO == "B738" then
 	fmc_version[0] = "v0.9"
 
 	fmc_vdate = create_dataref_table("B738_fmc_display/version_date" , "Data" )
-	fmc_vdate[0] = "2022-11-13"
+	fmc_vdate[0] = "2022-11-16"
 
 	local form_width = 498
 	local form_height = 778
