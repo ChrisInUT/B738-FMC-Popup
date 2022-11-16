@@ -136,7 +136,6 @@ if PLANE_ICAO == "B738" then
 		draw_fmc_line(108, line_6_large_green, "largeg")	
 		draw_fmc_line(108, line_6_large, "large")	
 		draw_fmc_line(118, entry_line_large, "large")
-		
 
 		-- Display buttons
 		fmc_button_handler("1L", 20, 100, 28, 22, "laminar/B738/button/fmc1_1L")
@@ -151,7 +150,6 @@ if PLANE_ICAO == "B738" then
 		fmc_button_handler("4R", 467, 216, 28, 23, "laminar/B738/button/fmc1_4R")
 		fmc_button_handler("5R", 467, 255, 28, 24, "laminar/B738/button/fmc1_5R")
 		fmc_button_handler("6R", 467, 294, 28, 23, "laminar/B738/button/fmc1_6R")
-		
 		
 		-- Action buttons
 		fmc_button_handler("init_ref", 66, 397, 51, 37, "laminar/B738/button/fmc1_init_ref")
@@ -170,7 +168,6 @@ if PLANE_ICAO == "B738" then
 		fmc_button_handler("prev_page", 66, 534, 51, 36, "laminar/B738/button/fmc1_prev_page")
 		fmc_button_handler("next_page", 128, 534, 50, 36, "laminar/B738/button/fmc1_next_page")
 		
-		
 		-- Numeric keypad
 		fmc_button_handler("1", 68, 588, 33, 31, "laminar/B738/button/fmc1_1")
 		fmc_button_handler("2", 117, 588, 33, 31, "laminar/B738/button/fmc1_2") 
@@ -184,7 +181,6 @@ if PLANE_ICAO == "B738" then
 		fmc_button_handler("period", 68, 727, 33, 32, "laminar/B738/button/fmc1_period")
 		fmc_button_handler("0", 117, 727, 33, 32, "laminar/B738/button/fmc1_0")
 		fmc_button_handler("minus", 166, 727, 33, 32, "laminar/B738/button/fmc1_minus")
-
 
 		-- Alpha keypad
 		fmc_button_handler("A", 219, 493, 32, 33, "laminar/B738/button/fmc1_A")
