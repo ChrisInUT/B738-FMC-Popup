@@ -12,11 +12,8 @@ Requirements:
   Zibo mod
 
 Installation:
-  B738_FMC_Popup.lua
-  B738_FMC_A1.png
-  B738_FMC_A2.png
-
-  Copy the above files to '{X-Plane 12}\Resources\plugins\FlyWithLua\Scripts'
+  Download the 'B738_FMC_Popup.7z' file.
+  Open the file and copy the 'Scripts' folder to your FlyWithLua root folder. ('{X-Plane 12}\Resources\plugins\FlyWithLua\')
 
 Use:
   Alt + f to display/hide the popup window.
