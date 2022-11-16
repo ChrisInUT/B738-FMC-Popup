@@ -1,7 +1,7 @@
 # B738-FMC-Display
 
 Summary:
-  Provides a popup window for use with the Zibo mod and the B738 FMC in X-Plane.  The software supports both variants of the FMC that are used in the Zibo mod and will react dynamically to the preferences set within the EFB.  All buttons and indicators are functional.
+  Provides a popup FMC window that mimics the B738 FMC within the X-Plane Zibo Mod.  The software supports both variants of the FMC that are used in the Zibo Mod and will react dynamically to the preferences set within the EFB.  All buttons and indicators are functional.
 
 Revision Log:
   v0.9 - Original release (2022/11/16)
