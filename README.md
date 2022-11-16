@@ -16,7 +16,9 @@ Installation:
   Open the file and copy the 'Scripts' folder to your FlyWithLua root folder. ('{X-Plane 12}\Resources\plugins\FlyWithLua\')
 
 Use:
-  Alt + f to display/hide the popup window.
+  Press 'Alt' + 'f' (Option for mac os) to show/hide the popup window.
+  
+  The window will appear over the main sim window each time it is toggled to show.  Clicking on the overlapping forms control will change the window to a state where it can be moved to another screen. 
 
 Screenshot:
 ![image](https://user-images.githubusercontent.com/104312293/202120946-a2ba618a-04f3-412c-a5be-bfbc5781d957.png)
