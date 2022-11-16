@@ -20,3 +20,6 @@ Installation:
 
 Use:
   Alt + x to display/hide the popup window.
+
+Screenshot:
+![image](https://user-images.githubusercontent.com/104312293/202120946-a2ba618a-04f3-412c-a5be-bfbc5781d957.png)
