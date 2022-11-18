@@ -15,7 +15,7 @@ if PLANE_ICAO == "B738" then
 	blank_string[0] = "                        "
 
 	fmc_version = create_dataref_table("B738_fmc_display/version" , "Data" )
-	fmc_version[0] = "v1.0"
+	fmc_version[0] = "v1.01"
 
 	fmc_vdate = create_dataref_table("B738_fmc_display/version_date" , "Data" )
 	fmc_vdate[0] = "2022-11-18"
@@ -690,7 +690,7 @@ if PLANE_ICAO == "B738" then
 	
 	function fmc_fo_hide_wnd()
 		if fmc_fo_wnd then
-			float_fo_wnd_destroy(fmc_fo_wnd)
+			float_wnd_destroy(fmc_fo_wnd)
 		end
 	end
 	
