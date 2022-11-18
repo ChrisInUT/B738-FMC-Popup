@@ -6,6 +6,7 @@ Summary:
 Revision Log:
   v0.9 - Original release (2022/11/16)
   v1.0 - Added Dual FMC support (2022/11/18)
+  v1.01 - Bug fix: FO FMC display toggle
 
 Requirements:
   X-Plane 11 or 12
